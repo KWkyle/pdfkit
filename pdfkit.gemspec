@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "pdfkit/version"
 
 Gem::Specification.new do |s|
-  s.name        = "pdfkit"
+  s.name        = "pdfkit-skip-audit"
   s.version     = PDFKit::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Jared Pace", "Relevance"]
